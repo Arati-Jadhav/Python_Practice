@@ -1,0 +1,10 @@
+0.This is the front page of the Simple English Wikipedia.
+1.Wikipedia are places where people work together.
+2.We use Simple English words 21 and grammar here 9673592202.
+3.The Simple English Wikipedia is 9673592202 for everyone!
+4.arati.mane@gmail.com
+5.vrunda.jadhav@gmail.com
+6.amit.devadhe@gmail.com
+7.acx.dj@gmail.com
+8.Checking a substring is one of the most used tasks in python 7387184600.
+9.Python uses many methods to check a string containing a substring like, find(), index(), count(), etc.
